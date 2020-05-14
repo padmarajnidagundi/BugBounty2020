@@ -1,7 +1,3 @@
-# BugBounty2020
-bug bounty list and vulnerability disclosure programs from across the web
-
-
 inurl /bug bounty
 inurl : / security
 inurl:security.txt
