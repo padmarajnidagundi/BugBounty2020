@@ -1,3 +1,6 @@
+## Usage
+
+```python
 inurl /bug bounty
 inurl : / security
 inurl:security.txt
@@ -62,3 +65,7 @@ site:security.*.* inurl: bounty
 site:*.*.de inurl:bug inurl:bounty
 site:*.*.uk intext:security report reward
 site:*.*.cn intext:security report reward
+
+```
+More
+https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
