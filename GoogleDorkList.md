@@ -1,4 +1,4 @@
-## Usage
+## Bug Bounty is offering rewards to security researchers who resolve critical vulnerabilities. you can get them via Google search. 
 
 ```python
 inurl /bug bounty
@@ -68,4 +68,7 @@ site:*.*.cn intext:security report reward
 
 ```
 More
+https://www.openbugbounty.org/researchers/PadmarajNidagundi/
 https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php
+Hacker one, bug crowed etc.
+
